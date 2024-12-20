@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, pyhton, AI,Ml,Cloud
 - 💞️ I’m looking to collaborate with fellow sotware developers
 - 📫 How to reach me @muhamadnajmudeen@gmail.com
-- 😄 Pronouns: Naj
+- 😄 Pronouns: Najj
 - ⚡ Fun fact: Life is 5x easier with github...
 
 <!---
